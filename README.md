@@ -27,4 +27,4 @@ Choose an option:
 ## 🚀 How to Run
 1. **Clone this repository:**  
 ```bash
-git clone https://github.com/TU-USUARIO/SimpleInventoryManager.git
+git clone https://github.com/MilenaRPotes/SimpleInventoryManager.git
