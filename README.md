@@ -3,21 +3,13 @@ A simple C# console application to manage inventory by adding, displaying, selli
 
 ## 🌟 Features
 - ✅ Add products: Name, price, and quantity.
-
 - 📦 View inventory: Display all products with details.
+- 💰 Sell products: Reduce stock and remove if quantity reaches zero.
+- ❌ Delete products: Remove items from inventory.
+- 🖥️ User-friendly menu: Easy-to-use console interface.
 
-💰 Sell products: Reduce stock and remove if quantity reaches zero.
-
-❌ Delete products: Remove items from inventory.
-
-🖥️ User-friendly menu: Easy-to-use console interface.
-
-🛠 How It Works
-1️⃣ Select an option from the menu:
-
-mathematica
-Copiar
-Editar
+## 🛠 How It Works
+- 1️⃣ Select an option from the menu:
 INVENTORY MANAGER  
 1. Add Product  
 2. Show Products  
@@ -25,19 +17,15 @@ INVENTORY MANAGER
 4. Delete Product  
 5. Exit  
 Choose an option:  
-2️⃣ Enter the required details based on the selected option.
-3️⃣ The program updates and displays the inventory accordingly.
-4️⃣ Repeat until you choose to exit.
+- 2️⃣ Enter the required details based on the selected option.
+- 3️⃣ The program updates and displays the inventory accordingly.
+- 4️⃣ Repeat until you choose to exit.
 
-🖥️ Technologies
-🧑‍💻 C#
+## 🖥️ Technologies
+- 🧑‍💻 C#
+- ⚙️ .NET
 
-⚙️ .NET
-
-🚀 How to Run
-Clone this repository:
-
-bash
-Copiar
-Editar
+## 🚀 How to Run
+1. **Clone this repository:**  
+```bash
 git clone https://github.com/TU-USUARIO/SimpleInventoryManager.git
