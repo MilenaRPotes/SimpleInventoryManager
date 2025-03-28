@@ -1,10 +1,10 @@
-#🛒 Simple Inventory Manager
+# 🛒 Simple Inventory Manager
 A simple C# console application to manage inventory by adding, displaying, selling, and removing products.
 
-##🌟 Features
+## 🌟 Features
 - ✅ Add products: Name, price, and quantity.
 
-📦 View inventory: Display all products with details.
+- 📦 View inventory: Display all products with details.
 
 💰 Sell products: Reduce stock and remove if quantity reaches zero.
 
