@@ -10,7 +10,6 @@ A simple C# console application to manage inventory by adding, displaying, selli
 
 ## 🛠 How It Works
 - 1️⃣ Select an option from the menu:
-INVENTORY MANAGER  
 1. Add Product  
 2. Show Products  
 3. Sell Product  
